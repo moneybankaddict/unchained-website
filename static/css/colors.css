@@ -1,0 +1,23 @@
+:root {
+    --c-black: #181826;
+    --c-black-blue: #1a213a;
+    --c-dark-blue-grey: #222840;
+    --c-grey: #39425d;
+    --c-light-grey: #dbe2ef;
+    --c-white: #f9faff;
+}
+
+::-webkit-scrollbar {
+    width: 8px;
+}
+::-webkit-scrollbar-thumb {
+    background: var(--c-dark-blue-grey);
+    border-radius: 10px;
+    border: 2px solid var(--c-black);
+}
+::-webkit-scrollbar-thumb:hover {
+    background: var(--c-dark-blue-grey);
+}
+::-webkit-scrollbar-track {
+    background: var(--c-dark-blue);
+}
