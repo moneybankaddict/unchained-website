@@ -68,5 +68,5 @@ Ce projet est à usage démonstratif. Si vous souhaitez le réutiliser ou l’ad
 
 ## 🙋‍♂️ Auteur
 
-Projet réalisé par [Ton Nom ou Pseudo]  
+Projet réalisé par malik  
 Contact via [Discord](https://discord.com/)
